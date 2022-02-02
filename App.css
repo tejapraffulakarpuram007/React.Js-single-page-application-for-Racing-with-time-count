@@ -1,0 +1,38 @@
+.container {
+  background-color: #fff;
+  padding: 10px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.buttonToggle {
+  margin: 5px;
+  background-color: #cd002c;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-size: 12pt;
+  text-transform: uppercase;
+}
+
+.categories {
+  flex-direction: row;
+  justify-content: center;
+  display: flex;
+}
+
+.buttonContainer {
+  padding: 10px;
+}
+
+.list {
+  padding-top: 20px;
+}
+
+.item {
+  padding: 10px;
+  font-size: 16pt;
+  height: 44px;
+}
